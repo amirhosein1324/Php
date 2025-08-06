@@ -30,11 +30,3 @@ This project provides a simple PHP-based contact form with built-in input valida
 ## Customization
 
 You can easily customize the fields, validation rules, or the CSS styling by editing the `Contact_Form.php` file.
-
-## Screenshot
-
-![Contact Form Screenshot](screenshot.png)
-
-## License
-
-This project is provided for educational and demonstration purposes. You are free to use and modify it as needed.
